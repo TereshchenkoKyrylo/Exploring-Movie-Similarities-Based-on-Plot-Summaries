@@ -1,6 +1,6 @@
 # Exploring Movie Similarities Based on Plot Summaries
 
-**Status: In Progress**
+**Status: Completed**
 
 ## Overview
 
